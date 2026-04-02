@@ -6,7 +6,7 @@ subtitle: <strong>Ateneo de Manila University<strong>. Quezon City, Philippines.
 
 profile:
   align: right
-  image: formal_pic.jpg
+  image: formal_pic.JPG
   image_circular: true # crops the image to make it circular
   more_info: >
 
