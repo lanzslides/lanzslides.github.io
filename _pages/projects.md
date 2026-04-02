@@ -5,7 +5,7 @@ permalink: /projects/
 description: In this page, I show highlights from various projects I have completed over the years.
 nav: true
 nav_order: 3
-display_categories: [intern, acad, self]
+display_categories: [intern, acads, self]
 horizontal: false
 ---
 
