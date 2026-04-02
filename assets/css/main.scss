@@ -37,9 +37,3 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
-
-.card-img-top {
-  width: 100%;
-  height: 180px;       /* adjust this to your liking */
-  object-fit: cover;   /* crops nicely instead of stretching */
-}
