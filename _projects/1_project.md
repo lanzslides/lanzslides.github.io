@@ -2,10 +2,9 @@
 layout: page
 title: Evaluating Neural Network Variations for Prediction of Multidimensional Poverty in the Philippines
 description: CSCI 214 (Pattern Recognition)
-img: assets/img/12.jpg
+img: assets/img/cs214_header.jpg
 importance: 1
 category: acads
-related_publications: false
 ---
 
 ## **Overview**
@@ -30,9 +29,9 @@ Model training was conducted under a consistent hyperparameter configuration acr
 
 ## **Results**
 
-<div class="row">
+<div class="row justify-content-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cs214_table1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/cs214_table1.png" title="Table 1" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

@@ -211,6 +211,7 @@ exclude:
   - _teachings/
   - _pages/profiles.md
   - _pages/publications.md
+  - _pages/dropdown.md
 
 keep_files:
   - CNAME
