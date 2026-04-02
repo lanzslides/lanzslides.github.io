@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: In this page, I show highlights from various projects I have completed over the years.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [intern, acad, self]
 horizontal: false
 ---
 

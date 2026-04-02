@@ -206,11 +206,11 @@ exclude:
   - vendor
   - _news/
   - _pages/blog.md
-  - _posts/
   - _pages/repositories.md
   - _pages/teaching.md
   - _teachings/
   - _pages/profiles.md
+  - _pages/publications.md
 
 keep_files:
   - CNAME
