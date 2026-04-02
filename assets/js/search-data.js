@@ -4,7 +4,7 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -394,8 +394,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
+            },},{id: "projects-evaluating-neural-network-variations-for-prediction-of-multidimensional-poverty-in-the-philippines",
+          title: 'Evaluating Neural Network Variations for Prediction of Multidimensional Poverty in the Philippines',
           description: "CSCI 214 (Pattern Recognition)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
