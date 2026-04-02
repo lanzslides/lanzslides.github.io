@@ -9,6 +9,7 @@ related_publications: false
 ---
 
 ## Project Summary
+
 I sought to compare performances of modified neural network architectures in predicting poverty of Filipino households using non-financial indicators. Three standard, four-layer MLPs with different activation functions (ReLU, Swish-Beta, and Mish) were trained using the 2022 Annual Poverty Indicators Survey data from PSA. An emerging architecture, the Neural Additive Model (NAM), was also used as a more transparent, interpretable alternative model. Results show that non-ReLU activations improved gradient flow, evidenced by lower training loss values, but model generalization was not necessarily guaranteed. In contrast, NAM outperformed all other models across multiple metrics like accuracy and precision. Hence, a structured, feature-wise additive modeling technique may be more useful for poverty prediction tasks.
 
 <div class="row">
@@ -21,4 +22,5 @@ I sought to compare performances of modified neural network architectures in pre
 </div>
 
 ## Artifacts
+
 The written report can be accessed [here](https://drive.google.com/file/d/1zzINxiNdwl2Y1FYdwX4-C9jq5ejc1Ryc/view).

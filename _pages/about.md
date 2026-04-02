@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>Ateneo de Manila University<strong>. Quezon City, Philippines. lfermin.connect@gmail.com. 
+subtitle: <strong>Ateneo de Manila University<strong>. Quezon City, Philippines. lfermin.connect@gmail.com.
 
 profile:
   align: right
@@ -23,8 +23,8 @@ Lanz Railey A. Fermin is an aspiring data scientist based in Quezon City, Philip
 
 Passionate about using data science for endeavors that seek to make a difference, Lanz currently serves as an Education AI Research Intern at the Center for AI Research. There, he contributes to initiatives such as [SABAY](https://tribune.net.ph/2025/04/29/deped-to-roll-out-ai-screening-tool-for-early-disability-detection), an AI-powered system designed for early screening of dyslexia and other speech-learning disorders. He has also served as an intern for Ayala Corporation and Bank of the Philippine Islands.
 
-Research and knowledge discovery hold a special place in him. He has worked in projects that span social and environmental applications in the Philippine context. To cite some examples: poverty prediction using non-monetary indicators, and time series analysis of precipitation in Metro Manila 
+Research and knowledge discovery hold a special place in him. He has worked in projects that span social and environmental applications in the Philippine context. To cite some examples: poverty prediction using non-monetary indicators, and time series analysis of precipitation in Metro Manila.
 
-Beyond academics, Lanz also served as the Filipino Editor for [HEIGHTS Ateneo](https://heights-ateneo.webflow.io/), the official literary and artistic publication of the university. 
+Beyond academics, Lanz also served as the Filipino Editor for [HEIGHTS Ateneo](https://heights-ateneo.webflow.io/), the official literary and artistic publication of the university.
 
 In his free time, he enjoys reading Filipino literature, following basketball, and listening to [rap battles](https://www.youtube.com/@fliptopbattles).
